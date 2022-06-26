@@ -86,7 +86,5 @@ wumpus_kb.ask_if_true(OK22)
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/175802972-4159eb7d-8d72-44d9-9ead-6a9828558ad0.png)
 
-<br>
-
 ## RESULT:
 Thus, a program to implement inference propositional logic sentences in python to solve Wumpus World problem has been done sucessfully.
